@@ -4,15 +4,13 @@ Repositorio Aquitectura de Computadoras 5BS
 
 ## Evaluación
 
-### Prácticas 1-5 [?]%
+### Prácticas 1-5 30%
 
-### Proyecto final [?]%
+### Proyecto final 25%
 
-### Examen [?]%
+### Examen 25%
 
-### Participación [?]%
-
-### Asistencia [?]%
+### Asistencia 20%
 
 ## Prácticas
 
