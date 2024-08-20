@@ -4,6 +4,9 @@ Repositorio Aquitectura de Computadoras 5BS
 
 ## Evaluación
 
+feat (feature:funcionalidad) :- nuevo
+fix (fix:arreglar) -: actualizacion
+
 ### Prácticas 1-5 30%
 
 ### Proyecto final 25%
