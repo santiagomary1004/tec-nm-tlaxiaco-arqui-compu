@@ -13,14 +13,15 @@ Responde las siguientes preguntas con claridad. Cada sección tiene un peso espe
 1. **Pregunta de Opción Múltiple:**  
    ¿Cuál de los siguientes es un ejemplo de software de aplicación?  
    a) Microsoft Word(X)
+   
    b) Windows 10  
    c) BIOS  
    d) Linux Kernel
 
-2. **Pregunta Abierta:**  
+3. **Pregunta Abierta:**  
    Define qué es un sistema de gestión de bases de datos (DBMS) y da un ejemplo de su uso.
 Un sistema que permite administrar una base de datos
-3. **Pregunta de Relación:**  
+4. **Pregunta de Relación:**  
    Relaciona los siguientes tipos de software con su función principal:
    - [C] Software de sistema
    - [A] Software de aplicación
