@@ -12,7 +12,7 @@ Responde las siguientes preguntas con claridad. Cada sección tiene un peso espe
 
 1. **Pregunta de Opción Múltiple:**  
    ¿Cuál de los siguientes es un ejemplo de software de aplicación?  
-   a) Microsoft Word  (X)
+   a) Microsoft Word(X)
    b) Windows 10  
    c) BIOS  
    d) Linux Kernel
