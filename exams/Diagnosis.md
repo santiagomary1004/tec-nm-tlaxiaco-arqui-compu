@@ -1,8 +1,8 @@
 # Evaluación de diagnóstico de Arquitectura de Computadoras
 
 | Nombre: | Fecha: | Matrícula: |
-|-------|------------|
-|         |        |            |
+|---------|--------|-----------|
+|         |        |           |
 
 ## Instrucciones
 
