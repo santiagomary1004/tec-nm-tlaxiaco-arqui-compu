@@ -1,4 +1,4 @@
-# Practica 3 - Caracterización de equipo de cómputo
+# Practica 3 - Unidad 3 Selección de componentes - Caracterización de equipo de cómputo
 
 ## Objetivo
 

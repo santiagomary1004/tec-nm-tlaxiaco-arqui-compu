@@ -1,4 +1,4 @@
-# Practica 1 - CIRCUITOS ARITMETICOS Y LOGICOS
+# Practica 1 - Unidad 1 Arquitecturas de cómputo - CIRCUITOS ARITMETICOS Y LOGICOS
 
 ## Objetivo
 
