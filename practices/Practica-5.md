@@ -47,15 +47,25 @@ El alumno deberá entregar un reporte en formato PDF que contenga los siguientes
 
 4. Desarrollo.
 
-- 4.1. Estrategias de *scheduling*.
+    - 4.1. Estrategias de *scheduling*.
 
-- 4.2. Simulación de administración de procesos/tareas en la CPU.
+    - 4.2. [Estrategia 1] Simulación de administración de procesos/tareas en la CPU.
 
-  - 4.2.1. Captura de pantalla del simulador.
+      - 4.2.1. Capturas de pantalla del simulador.
 
-  - 4.2.2. Descripción de las etapas de la administración de procesos/tareas.
-  
-- 4.2.3. Estrategias de *scheduling* utilizadas.
+      - 4.2.2. Descripción de las etapas de la administración de procesos/tareas.
+
+    - 4.3. [Estrategia 2] Simulación de administración de procesos/tareas en la CPU.
+
+      - 4.3.1. Capturas de pantalla del simulador.
+
+      - 4.3.2. Descripción de las etapas de la administración de procesos/tareas.
+
+    - 4.4. [Estrategia 3] Simulación de administración de procesos/tareas en la CPU.
+
+      - 4.4.1. Capturas de pantalla del simulador.
+
+      - 4.4.2. Descripción de las etapas de la administración de procesos/tareas.
 
 5. Conclusiones.
 
